@@ -1,0 +1,5 @@
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/hal/../draw/../misc/lv_color.h:594:26:lv_color_hex	24	static
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/core/lv_obj_style.h:213:20:lv_obj_set_style_pad_all	24	static
+../Core/generated/setup_scr_screen_2.c:20:6:screen_2_update_labels2	56	static
+../Core/generated/setup_scr_screen_2.c:35:6:screen_2_update_labels1	56	static
+../Core/generated/setup_scr_screen_2.c:47:6:setup_scr_screen_2	24	static

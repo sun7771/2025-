@@ -1,0 +1,1 @@
+GEN_CSRCS += _QS_alpha_307x91.c _1_alpha_40x40.c _3_alpha_40x40.c _motor_alpha_40x40.c _sensor_alpha_40x40.c _2_alpha_40x40.c _GOP_TestCenter_LeftNav_Icon_alpha_40x40.c

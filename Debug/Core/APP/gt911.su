@@ -1,0 +1,6 @@
+../Core/APP/gt911.c:16:4:GT911_WR_Reg	40	static
+../Core/APP/gt911.c:33:6:GT911_RD_Reg	32	static
+../Core/APP/gt911.c:41:4:GT911_Init	40	static
+../Core/APP/gt911.c:103:4:GT911_GetTouchCoordinates	48	static
+../Core/APP/gt911.c:215:4:GT911_Scan	24	static
+../Core/APP/gt911.c:240:4:Null_Scan	16	static

@@ -1,0 +1,7 @@
+../Core/lvgl/src/misc/lv_math.c:50:31:lv_trigo_sin	24	static
+../Core/lvgl/src/misc/lv_math.c:82:10:lv_bezier3	64	static
+../Core/lvgl/src/misc/lv_math.c:108:28:lv_sqrt	32	static
+../Core/lvgl/src/misc/lv_math.c:131:10:lv_atan2	40	static
+../Core/lvgl/src/misc/lv_math.c:219:9:lv_pow	48	static
+../Core/lvgl/src/misc/lv_math.c:240:9:lv_map	32	static
+../Core/lvgl/src/misc/lv_math.c:265:10:lv_rand	24	static

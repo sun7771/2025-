@@ -1,0 +1,2 @@
+../Core/APP/i2c_scan.c:17:6:I2C_ScanDevices	5
+../Core/APP/i2c_scan.c:64:19:I2C_ScanDevices_1	7

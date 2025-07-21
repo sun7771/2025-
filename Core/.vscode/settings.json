@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "memorymap.h": "c",
+        "i2c.h": "c",
+        "main.h": "c",
+        "lvgl.h": "c",
+        "mybsp.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

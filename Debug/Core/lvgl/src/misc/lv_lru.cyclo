@@ -1,0 +1,10 @@
+../Core/lvgl/src/misc/lv_lru.c:76:11:lv_lru_create	5
+../Core/lvgl/src/misc/lv_lru.c:105:6:lv_lru_del	7
+../Core/lvgl/src/misc/lv_lru.c:139:14:lv_lru_set	13
+../Core/lvgl/src/misc/lv_lru.c:190:14:lv_lru_get	6
+../Core/lvgl/src/misc/lv_lru.c:212:14:lv_lru_remove	6
+../Core/lvgl/src/misc/lv_lru.c:233:6:lv_lru_remove_lru_item	6
+../Core/lvgl/src/misc/lv_lru.c:265:17:lv_lru_hash	5
+../Core/lvgl/src/misc/lv_lru.c:300:12:lv_lru_cmp_keys	2
+../Core/lvgl/src/misc/lv_lru.c:309:13:lv_lru_remove_item	2
+../Core/lvgl/src/misc/lv_lru.c:328:23:lv_lru_pop_or_create_item	2

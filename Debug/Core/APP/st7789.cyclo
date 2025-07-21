@@ -1,0 +1,10 @@
+../Core/APP/st7789.c:8:13:ST7789_Delay	1
+../Core/APP/st7789.c:13:13:ST7789_WriteByte	2
+../Core/APP/st7789.c:19:6:ST7789_WriteCommand	1
+../Core/APP/st7789.c:26:6:ST7789_WriteData	2
+../Core/APP/st7789.c:36:6:ST7789_Init	1
+../Core/APP/st7789.c:115:6:ST7789_SetAddressWindow	1
+../Core/APP/st7789.c:133:6:ST7789_DrawPixel	3
+../Core/APP/st7789.c:143:6:ST7789_FillRect	5
+../Core/APP/st7789.c:164:6:ST7789_FillScreen	1
+../Core/APP/st7789.c:169:6:ST7789_SetBacklight	2

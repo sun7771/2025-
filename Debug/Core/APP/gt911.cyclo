@@ -1,0 +1,6 @@
+../Core/APP/gt911.c:16:4:GT911_WR_Reg	1
+../Core/APP/gt911.c:33:6:GT911_RD_Reg	1
+../Core/APP/gt911.c:41:4:GT911_Init	2
+../Core/APP/gt911.c:103:4:GT911_GetTouchCoordinates	9
+../Core/APP/gt911.c:215:4:GT911_Scan	5
+../Core/APP/gt911.c:240:4:Null_Scan	1

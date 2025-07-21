@@ -1,0 +1,8 @@
+../Core/APP/led.c:24:6:led_ai_motor_on	1
+../Core/APP/led.c:28:6:led_ai_motor_off	1
+../Core/APP/led.c:33:6:led_is_finish_on	1
+../Core/APP/led.c:37:6:led_is_finish_off	1
+../Core/APP/led.c:43:6:led_ai_mpu6050_on	1
+../Core/APP/led.c:47:6:led_ai_mpu6050_off	1
+../Core/APP/led.c:56:6:led_ai_mpu6050_finish_on	1
+../Core/APP/led.c:61:6:led_ai_mpu6050_finish_off	1

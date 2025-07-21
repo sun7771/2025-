@@ -1,0 +1,12 @@
+../Core/APP/motor.c:26:6:motor1_forward	16	static
+../Core/APP/motor.c:32:6:motor1_back	16	static
+../Core/APP/motor.c:39:6:motor2_forward	16	static
+../Core/APP/motor.c:45:6:motor2_back	16	static
+../Core/APP/motor.c:52:6:motor3_forward	16	static
+../Core/APP/motor.c:58:6:motor3_back	16	static
+../Core/APP/motor.c:65:6:motor4_forward	16	static
+../Core/APP/motor.c:71:6:motor4_back	16	static
+../Core/APP/motor.c:78:5:read_speed	24	static
+../Core/APP/motor.c:85:6:motor_stop	8	static
+../Core/APP/motor.c:92:6:filter_init	24	static
+../Core/APP/motor.c:100:5:filter_update	16	static

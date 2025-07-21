@@ -1,0 +1,10 @@
+../Core/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_color.h:590:26:lv_color_make	1
+../Core/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_color.h:690:26:lv_color_white	1
+../Core/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_color.h:693:26:lv_color_black	1
+../Core/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_style.h:525:20:lv_style_set_pad_all	1
+../Core/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_style.h:542:20:lv_style_set_pad_gap	1
+../Core/lvgl/src/extra/themes/mono/lv_theme_mono.c:76:13:style_init	17
+../Core/lvgl/src/extra/themes/mono/lv_theme_mono.c:164:6:lv_theme_mono_is_inited	1
+../Core/lvgl/src/extra/themes/mono/lv_theme_mono.c:168:13:lv_theme_mono_init	4
+../Core/lvgl/src/extra/themes/mono/lv_theme_mono.c:197:13:theme_apply	35
+../Core/lvgl/src/extra/themes/mono/lv_theme_mono.c:509:13:style_init_reset	2

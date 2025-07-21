@@ -1,0 +1,16 @@
+../Core/lvgl/src/misc/lv_ll.c:47:6:_lv_ll_init	1
+../Core/lvgl/src/misc/lv_ll.c:66:7:_lv_ll_ins_head	4
+../Core/lvgl/src/misc/lv_ll.c:94:7:_lv_ll_ins_prev	6
+../Core/lvgl/src/misc/lv_ll.c:125:7:_lv_ll_ins_tail	4
+../Core/lvgl/src/misc/lv_ll.c:152:6:_lv_ll_remove	6
+../Core/lvgl/src/misc/lv_ll.c:185:6:_lv_ll_clear	2
+../Core/lvgl/src/misc/lv_ll.c:210:6:_lv_ll_chg_list	6
+../Core/lvgl/src/misc/lv_ll.c:248:7:_lv_ll_get_head	2
+../Core/lvgl/src/misc/lv_ll.c:259:7:_lv_ll_get_tail	2
+../Core/lvgl/src/misc/lv_ll.c:271:7:_lv_ll_get_next	1
+../Core/lvgl/src/misc/lv_ll.c:285:7:_lv_ll_get_prev	1
+../Core/lvgl/src/misc/lv_ll.c:298:10:_lv_ll_get_len	2
+../Core/lvgl/src/misc/lv_ll.c:316:6:_lv_ll_move_before	6
+../Core/lvgl/src/misc/lv_ll.c:352:6:_lv_ll_is_empty	4
+../Core/lvgl/src/misc/lv_ll.c:372:13:node_set_prev	2
+../Core/lvgl/src/misc/lv_ll.c:392:13:node_set_next	2

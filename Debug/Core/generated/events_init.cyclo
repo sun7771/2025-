@@ -1,0 +1,12 @@
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/core/lv_disp.h:203:20:lv_scr_load	1
+../Core/generated/events_init.c:19:13:screen_img_4_event_handler	4
+../Core/generated/events_init.c:43:13:screen_img_5_event_handler	3
+../Core/generated/events_init.c:64:6:events_init_screen	1
+../Core/generated/events_init.c:70:13:screen_1_btn_1_event_handler	3
+../Core/generated/events_init.c:91:13:screen_1_btn_2_event_handler	2
+../Core/generated/events_init.c:109:6:events_init_screen_1	1
+../Core/generated/events_init.c:115:13:screen_2_btn_2_event_handler	3
+../Core/generated/events_init.c:137:6:events_init_screen_2	1
+../Core/generated/events_init.c:142:13:screen_3_btn_1_event_handler	3
+../Core/generated/events_init.c:165:6:events_init_screen_3	1
+../Core/generated/events_init.c:170:6:events_init	1

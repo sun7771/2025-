@@ -1,0 +1,4 @@
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/lv_api_map.h:53:20:lv_obj_move_foreground	1
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/lv_api_map.h:64:20:lv_obj_move_background	1
+../Core/generated/widgets_init.c:17:30:kb_event_cb	3
+../Core/generated/widgets_init.c:25:30:ta_event_cb	5

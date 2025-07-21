@@ -1,0 +1,4 @@
+../Core/lvgl/src/draw/lv_draw_layer.c:37:22:lv_draw_layer_create	40	static
+../Core/lvgl/src/draw/lv_draw_layer.c:67:6:lv_draw_layer_adjust	24	static
+../Core/lvgl/src/draw/lv_draw_layer.c:73:6:lv_draw_layer_blend	24	static
+../Core/lvgl/src/draw/lv_draw_layer.c:79:6:lv_draw_layer_destroy	24	static

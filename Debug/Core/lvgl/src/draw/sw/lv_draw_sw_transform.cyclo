@@ -1,0 +1,9 @@
+../Core/lvgl/src/draw/sw/../../misc/lv_color.h:435:48:lv_color_mix	1
+../Core/lvgl/src/draw/sw/../../misc/lv_area.h:123:26:lv_area_get_width	1
+../Core/lvgl/src/draw/sw/../../misc/lv_area.h:132:26:lv_area_get_height	1
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:83:6:lv_draw_sw_transform	7
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:168:13:rgb_no_aa	8
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:211:13:argb_no_aa	6
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:244:13:rgb565a8_no_aa	6
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:274:13:argb_and_rgb_aa	41
+../Core/lvgl/src/draw/sw/lv_draw_sw_transform.c:475:13:transform_point_upscaled	5

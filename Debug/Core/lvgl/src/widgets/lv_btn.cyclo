@@ -1,0 +1,2 @@
+../Core/lvgl/src/widgets/lv_btn.c:45:11:lv_btn_create	1
+../Core/lvgl/src/widgets/lv_btn.c:56:13:lv_btn_constructor	1

@@ -1,0 +1,15 @@
+../Core/lvgl/src/misc/lv_mem.c:86:6:lv_mem_init	8	static
+../Core/lvgl/src/misc/lv_mem.c:112:6:lv_mem_deinit	8	static
+../Core/lvgl/src/misc/lv_mem.c:124:7:lv_mem_alloc	24	static
+../Core/lvgl/src/misc/lv_mem.c:168:6:lv_mem_free	24	static
+../Core/lvgl/src/misc/lv_mem.c:196:7:lv_mem_realloc	24	static
+../Core/lvgl/src/misc/lv_mem.c:221:10:lv_mem_test	8	static
+../Core/lvgl/src/misc/lv_mem.c:247:6:lv_mem_monitor	16	static
+../Core/lvgl/src/misc/lv_mem.c:274:7:lv_mem_buf_get	24	static
+../Core/lvgl/src/misc/lv_mem.c:330:6:lv_mem_buf_release	24	static
+../Core/lvgl/src/misc/lv_mem.c:346:6:lv_mem_buf_free_all	16	static
+../Core/lvgl/src/misc/lv_mem.c:364:29:lv_memcpy	48	static
+../Core/lvgl/src/misc/lv_mem.c:427:28:lv_memset	40	static
+../Core/lvgl/src/misc/lv_mem.c:470:28:lv_memset_00	32	static
+../Core/lvgl/src/misc/lv_mem.c:507:28:lv_memset_ff	32	static
+../Core/lvgl/src/misc/lv_mem.c:546:13:lv_mem_walker	32	static

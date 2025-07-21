@@ -1,0 +1,15 @@
+../Core/lvgl/src/misc/lv_color.h:372:24:lv_color_to32	24	static
+../Core/lvgl/src/misc/lv_color.h:435:48:lv_color_mix	24	static
+../Core/lvgl/src/misc/lv_color.h:590:26:lv_color_make	16	static
+../Core/lvgl/src/misc/lv_color.h:690:26:lv_color_white	8	static
+../Core/lvgl/src/misc/lv_color.h:693:26:lv_color_black	8	static
+../Core/lvgl/src/misc/lv_color.c:36:28:lv_color_fill	40	static
+../Core/lvgl/src/misc/lv_color.c:126:12:lv_color_lighten	16	static
+../Core/lvgl/src/misc/lv_color.c:130:12:lv_color_darken	16	static
+../Core/lvgl/src/misc/lv_color.c:134:12:lv_color_change_lightness	16	static
+../Core/lvgl/src/misc/lv_color.c:151:12:lv_color_hsv_to_rgb	32	static
+../Core/lvgl/src/misc/lv_color.c:215:16:lv_color_rgb_to_hsv	48	static
+../Core/lvgl/src/misc/lv_color.c:266:16:lv_color_to_hsv	24	static
+../Core/lvgl/src/misc/lv_color.c:273:12:lv_palette_main	16	static
+../Core/lvgl/src/misc/lv_color.c:295:12:lv_palette_lighten	16	static
+../Core/lvgl/src/misc/lv_color.c:404:12:lv_palette_darken	16	static

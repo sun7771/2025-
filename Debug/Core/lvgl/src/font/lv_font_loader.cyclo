@@ -1,0 +1,11 @@
+../Core/lvgl/src/font/lv_font_loader.c:87:12:lv_font_load	4
+../Core/lvgl/src/font/lv_font_loader.c:117:6:lv_font_free	17
+../Core/lvgl/src/font/lv_font_loader.c:182:23:init_bit_iterator	1
+../Core/lvgl/src/font/lv_font_loader.c:190:21:read_bits	4
+../Core/lvgl/src/font/lv_font_loader.c:211:12:read_bits_signed	2
+../Core/lvgl/src/font/lv_font_loader.c:219:12:read_label	4
+../Core/lvgl/src/font/lv_font_loader.c:235:13:load_cmaps_tables	11
+../Core/lvgl/src/font/lv_font_loader.c:311:16:load_cmaps	4
+../Core/lvgl/src/font/lv_font_loader.c:342:16:load_glyph	26
+../Core/lvgl/src/font/lv_font_loader.c:498:13:lvgl_load_font	14
+../Core/lvgl/src/font/lv_font_loader.c:604:9:load_kern	16

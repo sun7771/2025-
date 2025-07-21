@@ -1,0 +1,6 @@
+../Core/lvgl/src/extra/widgets/win/lv_win.c:40:11:lv_win_create	1
+../Core/lvgl/src/extra/widgets/win/lv_win.c:49:11:lv_win_add_title	1
+../Core/lvgl/src/extra/widgets/win/lv_win.c:58:11:lv_win_add_btn	1
+../Core/lvgl/src/extra/widgets/win/lv_win.c:70:11:lv_win_get_header	1
+../Core/lvgl/src/extra/widgets/win/lv_win.c:74:11:lv_win_get_content	1
+../Core/lvgl/src/extra/widgets/win/lv_win.c:82:13:lv_win_constructor	1

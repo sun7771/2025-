@@ -1,0 +1,12 @@
+E:/My_Project/qian_ru_shi_she_ji_da_sai/V3/Core/lvgl/src/core/lv_disp.h:203:20:lv_scr_load	16	static
+../Core/APP/task.c:80:6:peri_init	8	static
+../Core/APP/task.c:126:6:ai_proc_motor	8	static
+../Core/APP/task.c:166:6:ai_proc_mpu6050	8	static
+../Core/APP/task.c:207:6:motor_proc	8	static
+../Core/APP/task.c:228:6:fi_dt	24	static
+../Core/APP/task.c:247:6:encoder_proc	16	static
+../Core/APP/task.c:287:6:dht911_proc	8	static
+../Core/APP/task.c:304:6:HAL_UARTEx_RxEventCallback	16	static
+../Core/APP/task.c:325:6:serial_send	112	static
+../Core/APP/task.c:348:6:check_similarity_and_switch_screen	16	static
+../Core/APP/task.c:361:6:task_proc	8	static

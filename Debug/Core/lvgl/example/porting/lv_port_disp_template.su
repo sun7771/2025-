@@ -1,0 +1,5 @@
+../Core/lvgl/example/porting/lv_port_disp_template.c:56:6:lv_port_disp_init	8	static
+../Core/lvgl/example/porting/lv_port_disp_template.c:139:13:disp_init	8	static
+../Core/lvgl/example/porting/lv_port_disp_template.c:148:6:disp_enable_update	4	static
+../Core/lvgl/example/porting/lv_port_disp_template.c:154:6:disp_disable_update	4	static
+../Core/lvgl/example/porting/lv_port_disp_template.c:162:13:disp_flush	48	static
